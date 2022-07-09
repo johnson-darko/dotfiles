@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = johnsondarko365@gmail.com
+	name = Johnson Kwabena Darko
